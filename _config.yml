@@ -1,9 +1,9 @@
 # Site settings
-author: Elliott
+author: Elliott Vargo
 title: Day by Day
 header-img: img/home-bg.png
 email: vargoelliott@gmail.com
-copyright_name: Elliott
+copyright_name: Elliott Vargo
 description: > # this means to ignore newlines until "baseurl:"
   Attending Flatiron School while working in construction.
 baseurl: "" # the subpath of your site, e.g. /blog
